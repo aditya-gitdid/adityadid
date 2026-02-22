@@ -1,4 +1,4 @@
 # adityadid
 this is my first git repository
 <br>
-author adityagaikwad
+author aditya(adityadid)
